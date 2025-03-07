@@ -14,7 +14,7 @@ To be able to obtain the segmented interventions of the parliament
   display(int_20150120)
   ```
   ## Step 3:
- To create the dataset and populate it run Data segmentation/populate_database.ipynb, for now only term crawl works, and the database is correctlly created. To visualize the current database, you can run on the terminal:
+ To create the dataset and populate it run Data segmentation/populate_database.ipynb, for now I only did the crawlings, so term and diputades are populated. The database is correctlly created. To visualize the current database, you can run on the terminal:
   ```
     datasette interventions.db
   ```
