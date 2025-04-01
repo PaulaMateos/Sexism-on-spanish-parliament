@@ -1,0 +1,126 @@
+term_id,party,women_count,total_count,women_percentage
+0,"Grupo Parlamentario Comunista",3,22,13.64
+0,"Grupo Parlamentario de Alianza Popular",1,16,6.25
+0,"Grupo Parlamentario de la Minoría Catalana",0,9,0.00
+0,"Grupo Parlamentario de Unión de Centro Democrático",7,162,4.32
+0,"Grupo Parlamentario Mixto",0,16,0.00
+0,"Grupo Parlamentario Socialista del Congreso",8,108,7.41
+0,"Grupo Parlamentario Socialistes de Catalunya",2,19,10.53
+0,"Grupo Parlamentario Vasco (PNV)",0,9,0.00
+1,"Grupo Parlamentario Andalucista",0,9,0.00
+1,"Grupo Parlamentario Centrista",8,159,5.03
+1,"Grupo Parlamentario Coalición Democrática",1,12,8.33
+1,"Grupo Parlamentario Comunista",1,24,4.17
+1,"Grupo Parlamentario Minoría Catalana",1,14,7.14
+1,"Grupo Parlamentario Mixto",4,28,14.29
+1,"Grupo Parlamentario Socialista del Congreso",7,106,6.60
+1,"Grupo Parlamentario Socialista Vasco",0,9,0.00
+1,"Grupo Parlamentario Socialistes de Catalunya",2,22,9.09
+1,"Grupo Parlamentario Vasco (PNV)",0,9,0.00
+2,"Grupo Parlamentario Centrista",0,13,0.00
+2,"Grupo Parlamentario Minoría Catalana",0,14,0.00
+2,"Grupo Parlamentario Mixto",1,15,6.67
+2,"Grupo Parlamentario Popular del Congreso",2,109,1.83
+2,"Grupo Parlamentario Socialista del Congreso",19,228,8.33
+2,"Grupo Parlamentario Vasco (PNV)",2,10,20.00
+3,,1,5,20.00
+3,"Grupo Parlamentario CDS",2,29,6.90
+3,"Grupo Parlamentario Coalición Popular",9,96,9.38
+3,"Grupo Parlamentario Minoría Catalana",1,23,4.35
+3,"Grupo Parlamentario Mixto",1,23,4.35
+3,"Grupo Parlamentario Mixto - Agrupación de la Democracia Cristiana",0,2,0.00
+3,"Grupo Parlamentario Mixto - Agrupación IU - IC",0,7,0.00
+3,"Grupo Parlamentario Socialista",19,203,9.36
+3,"Grupo Parlamentario Vasco (PNV)",0,6,0.00
+4,,0,1,0.00
+4,"Grupo Parlamentario Catalán (Convergencia i Unió)",1,20,5.00
+4,"Grupo Parlamentario de CDS",1,15,6.67
+4,"Grupo Parlamentario de Izquierda Unida-Iniciativa per Catalunya",2,18,11.11
+4,"Grupo Parlamentario Mixto",4,20,20.00
+4,"Grupo Parlamentario Popular en el Congreso",11,118,9.32
+4,"Grupo Parlamentario Vasco (P.N.V.)",0,8,0.00
+4,"Grupo Socialista del Congreso",35,188,18.62
+5,"Grupo Parlamentario Catalán (Convergencia i Unió)",1,22,4.55
+5,"Grupo Parlamentario de Coalición Canaria",1,5,20.00
+5,"Grupo Parlamentario Federal Izquierda Unida-Iniciativa per Catalunya",4,22,18.18
+5,"Grupo Parlamentario Mixto",1,7,14.29
+5,"Grupo Parlamentario Popular en el Congreso",24,165,14.55
+5,"Grupo Socialista del Congreso",34,181,18.78
+5,"Grupo Vasco (PNV)",0,5,0.00
+6,"Grupo Parlamentario Catalán (Convergència i Unió)",5,20,25.00
+6,"Grupo Parlamentario de Coalición Canaria",0,4,0.00
+6,"Grupo Parlamentario Federal de Izquierda Unida",5,17,29.41
+6,"Grupo Parlamentario Mixto",4,12,33.33
+6,"Grupo Parlamentario Popular en el Congreso",32,188,17.02
+6,"Grupo Parlamentario Vasco (EAJ-PNV)",2,7,28.57
+6,"Grupo Socialista del Congreso",50,161,31.06
+7,"Grupo Parlamentario Catalán (Convergència i Unió)",4,17,23.53
+7,"Grupo Parlamentario de Coalición Canaria",2,6,33.33
+7,"Grupo Parlamentario Federal de Izquierda Unida",2,8,25.00
+7,"Grupo Parlamentario Mixto",3,10,30.00
+7,"Grupo Parlamentario Popular en el Congreso",69,230,30.00
+7,"Grupo Parlamentario Socialista",51,137,37.23
+7,"Grupo Parlamentario Vasco (EAJ-PNV)",1,8,12.50
+8,"Grupo Parlamentario Catalán (Convergència i Unió)",1,10,10.00
+8,"Grupo Parlamentario de Coalición Canaria-Nueva Canarias",0,1,0.00
+8,"Grupo Parlamentario de Esquerra Republicana (ERC)",3,10,30.00
+8,"Grupo Parlamentario de Izquierda Unida-Iniciativa per Catalunya Verds",3,6,50.00
+8,"Grupo Parlamentario Mixto",4,9,44.44
+8,"Grupo Parlamentario Popular en el Congreso",49,169,28.99
+8,"Grupo Parlamentario Socialista del Congreso",85,187,45.45
+8,"Grupo Parlamentario Vasco (EAJ-PNV)",1,7,14.29
+9,"Grupo Parlamentario Catalán (Convergència i Unió)",4,10,40.00
+9,"Grupo Parlamentario de Esquerra Republicana-Izquierda Unida-Iniciativa per Catalunya Verds",1,6,16.67
+9,"Grupo Parlamentario Mixto",5,9,55.56
+9,"Grupo Parlamentario Popular en el Congreso",62,178,34.83
+9,"Grupo Parlamentario Socialista",86,204,42.16
+9,"Grupo Parlamentario Vasco (EAJ-PNV)",0,6,0.00
+10,"Grupo Parlamentario Catalán de Convergència i d'Unió",8,19,42.11
+10,"Grupo Parlamentario de IU, ICV-EUiA, CHA: La Izquierda Plural",4,14,28.57
+10,"Grupo Parlamentario de Unión Progreso y Democracia",2,7,28.57
+10,"Grupo Parlamentario Mixto",7,22,31.82
+10,"Grupo Parlamentario Popular en el Congreso",90,224,40.18
+10,"Grupo Parlamentario Socialista",62,144,43.06
+10,"Grupo Parlamentario Vasco (EAJ-PNV)",2,7,28.57
+11,"Grupo Parlamentario Catalán (Democràcia i Llibertat)",3,8,37.50
+11,"Grupo Parlamentario Ciudadanos",8,40,20.00
+11,"Grupo Parlamentario de Esquerra Republicana",3,9,33.33
+11,"Grupo Parlamentario Mixto",5,14,35.71
+11,"Grupo Parlamentario Podemos-En Comú Podem-En Marea",33,65,50.77
+11,"Grupo Parlamentario Popular en el Congreso",45,120,37.50
+11,"Grupo Parlamentario Socialista",41,89,46.07
+11,"Grupo Parlamentario Vasco (EAJ-PNV)",1,6,16.67
+12,"Grupo Parlamentario Ciudadanos",8,33,24.24
+12,"Grupo Parlamentario Confederal de Unidos Podemos-En Comú Podem-En Marea",36,70,51.43
+12,"Grupo Parlamentario de Esquerra Republicana",4,11,36.36
+12,"Grupo Parlamentario Mixto",5,20,25.00
+12,"Grupo Parlamentario Popular en el Congreso",63,156,40.38
+12,"Grupo Parlamentario Socialista",44,97,45.36
+12,"Grupo Parlamentario Vasco (EAJ-PNV)",1,6,16.67
+13,"Grupo Parlamentario Ciudadanos",24,59,40.68
+13,"Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",23,42,54.76
+13,"Grupo Parlamentario Mixto",5,18,27.78
+13,"Grupo Parlamentario Popular",36,68,52.94
+13,"Grupo Parlamentario Republicano",7,14,50.00
+13,"Grupo Parlamentario Socialista",65,124,52.42
+13,"Grupo Parlamentario Vasco (EAJ-PNV)",2,6,33.33
+13,"Grupo Parlamentario VOX",9,24,37.50
+14,"Grupo Parlamentario Ciudadanos",5,11,45.45
+14,"Grupo Parlamentario Confederal de Unidas Podemos-En Comú Podem-Galicia en Común",20,42,47.62
+14,"Grupo Parlamentario Euskal Herria Bildu",2,5,40.00
+14,"Grupo Parlamentario Mixto",4,12,33.33
+14,"Grupo Parlamentario Plural",7,15,46.67
+14,"Grupo Parlamentario Popular en el Congreso",42,99,42.42
+14,"Grupo Parlamentario Republicano",7,14,50.00
+14,"Grupo Parlamentario Socialista",70,148,47.30
+14,"Grupo Parlamentario Vasco (EAJ-PNV)",2,6,33.33
+14,"Grupo Parlamentario VOX",15,55,27.27
+15,"Grupo Parlamentario Euskal Herria Bildu",3,6,50.00
+15,"Grupo Parlamentario Junts per Catalunya",3,7,42.86
+15,"Grupo Parlamentario Mixto",4,8,50.00
+15,"Grupo Parlamentario Plurinacional SUMAR",11,27,40.74
+15,"Grupo Parlamentario Popular en el Congreso",61,137,44.53
+15,"Grupo Parlamentario Republicano",4,7,57.14
+15,"Grupo Parlamentario Socialista",57,120,47.50
+15,"Grupo Parlamentario Vasco (EAJ-PNV)",2,5,40.00
+15,"Grupo Parlamentario VOX",9,33,27.27
